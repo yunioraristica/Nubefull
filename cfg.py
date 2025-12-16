@@ -1,3 +1,4 @@
 TOKEN = '8248025995:AAGsTDyBXINt4Sqhffs3i0GJcSRvRyW8rEs'
-ADMIN = '@Wilfre013'
+ADMIN = 'Wilfre013'
+
 
