@@ -1,4 +1,4 @@
-requests
+requests[socks]
 requests-toolbelt
 beautifulsoup4
 python-telegram-bot
