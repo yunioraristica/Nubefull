@@ -1,15 +1,13 @@
-requests
-requests[socks]
-python-telegram-bot
-bs4
-user_agent
-ping3
+requests>=2.31.0
+socks5-requests>=1.0.0
+python-telegram-bot>=20.0
+beautifulsoup4>=4.12.0
+fake-useragent>=1.4.0
+ping3>=4.0.0
 python-nmap>=1.7.0
-tcping
-pyping
-youtube_dl
-requests_toolbelt
-telethon
-tenacity
+tcping>=0.1.1
+yt-dlp>=2023.10.13
+telethon>=1.34.0
+tenacity>=8.2.0
 
 
